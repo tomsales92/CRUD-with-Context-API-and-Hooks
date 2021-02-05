@@ -8,8 +8,8 @@ Para o estilo usei apenas CSS com a biblioteca Styled Components.https://styled-
 Para os ícones usei react-icons https://react-icons.github.io/react-icons
 Usei alertas personalizados com o Sweetalert2  https://sweetalert2.github.io/
 
-## não esqueça
-Para executar a primeira abra o prompt de comando na pasta do projeto e digite yarn ou npm install.
+## Não esqueça
+Para executar a primeira vez abra o prompt de comando na pasta do projeto e digite yarn ou npm install.
 
 ### `yarn start`
 Para executar a aplicação no Browser
